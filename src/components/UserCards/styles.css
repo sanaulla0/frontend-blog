@@ -1,0 +1,6 @@
+.crd{
+ display: grid;
+ 
+ flex-direction: row;
+ flex-wrap: wrap;
+}
